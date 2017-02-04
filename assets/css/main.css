@@ -1680,105 +1680,105 @@ footer a {
     margin: 0
 }
 
-.post-jekyll .title-category {
+.post-bundler .title-category {
     color: #b31917
 }
 
-.post-jekyll .post-content h1,
-.post-jekyll .post-content h2,
-.post-jekyll .post-content h3,
-.post-jekyll .post-content h4 {
+.post-bundler .post-content h1,
+.post-bundler .post-content h2,
+.post-bundler .post-content h3,
+.post-bundler .post-content h4 {
     color: #b31917
 }
 
-.post-jekyll .post-content a {
+.post-bundler .post-content a {
     color: #b31917;
     border-bottom: 2px dashed #b31917;
 }
 
-.post-jekyll .post-content a:hover {
+.post-bundler .post-content a:hover {
     background-color: #b31917;
     color: #fff
 }
 
-.post-jekyll .post-content strong {
+.post-bundler .post-content strong {
     color: #b31917
 }
 
-.post-jekyll .post-content p code,
-.post-jekyll .post-content li code {
+.post-bundler .post-content p code,
+.post-bundler .post-content li code {
     color: #b31917
 }
 
-.post-jekyll .post-content blockquote {
+.post-bundler .post-content blockquote {
     border-left: .313rem solid #b31917
 }
 
-.post-jekyll .header-post,
-.post-jekyll .header-site {
+.post-bundler .header-post,
+.post-bundler .header-site {
     background-color: #b31917;
 }
 
-.post-jekyll .header-post h1,
-.post-jekyll .header-site h1 {
+.post-bundler .header-post h1,
+.post-bundler .header-site h1 {
     text-shadow: 3px 3px #8f1412
 }
 
-.post-jekyll .bar-header .logo a {
+.post-bundler .bar-header .logo a {
     color: #b31917
 }
 
-.post-jekyll .author .email,
-.post-jekyll .author .github {
+.post-bundler .author .email,
+.post-bundler .author .github {
     color: #b31917
 }
 
-.post-jekyll .share a:hover svg {
+.post-bundler .share a:hover svg {
     fill: #b31917
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-jekyll body.search-overlay:after {
+    .post-bundler body.search-overlay:after {
         background-color: #b31917
     }
 }
 
-.post-jekyll .icon-menu {
+.post-bundler .icon-menu {
     fill: #b31917
 }
 
-.post-jekyll .box-body h2 {
+.post-bundler .box-body h2 {
     color: #b31917
 }
 
-.post-jekyll .box-body .tags a {
+.post-bundler .box-body .tags a {
     color: #b31917;
     border: 1px solid #b31917
 }
 
-.post-jekyll aside {
+.post-bundler aside {
     background-color: #b31917;
 }
 
-.post-jekyll aside nav li a:hover {
+.post-bundler aside nav li a:hover {
     color: #b31917
 }
 
-.post-jekyll .ribbon span {
+.post-bundler .ribbon span {
     background-color: #b31917;
 }
 
-.post-jekyll .ribbon span:before {
+.post-bundler .ribbon span:before {
     border-left: 3px solid #7d1210;
     border-top: 3px solid #7d1210
 }
 
-.post-jekyll .ribbon span:after {
+.post-bundler .ribbon span:after {
     border-right: 3px solid #7d1210;
     border-top: 3px solid #7d1210
 }
 
-.post-jekyll footer {
+.post-bundler footer {
     background-color: #b31917
 }
 
@@ -1884,105 +1884,105 @@ footer a {
     background-color: #2da0c3
 }
 
-.post-js .title-category {
+.post-ruby .title-category {
     color: #d6ba32
 }
 
-.post-js .post-content h1,
-.post-js .post-content h2,
-.post-js .post-content h3,
-.post-js .post-content h4 {
+.post-ruby .post-content h1,
+.post-ruby .post-content h2,
+.post-ruby .post-content h3,
+.post-ruby .post-content h4 {
     color: #d6ba32
 }
 
-.post-js .post-content a {
+.post-ruby .post-content a {
     color: #d6ba32;
     border-bottom: 2px dashed #d6ba32;
 }
 
-.post-js .post-content a:hover {
+.post-ruby .post-content a:hover {
     background-color: #d6ba32;
     color: #fff
 }
 
-.post-js .post-content strong {
+.post-ruby .post-content strong {
     color: #d6ba32
 }
 
-.post-js .post-content p code,
-.post-js .post-content li code {
+.post-ruby .post-content p code,
+.post-ruby .post-content li code {
     color: #d6ba32
 }
 
-.post-js .post-content blockquote {
+.post-ruby .post-content blockquote {
     border-left: .313rem solid #d6ba32
 }
 
-.post-js .header-post,
-.post-js .header-site {
+.post-ruby .header-post,
+.post-ruby .header-site {
     background-color: #d6ba32;
 }
 
-.post-js .header-post h1,
-.post-js .header-site h1 {
+.post-ruby .header-post h1,
+.post-ruby .header-site h1 {
     text-shadow: 3px 3px #b09823
 }
 
-.post-js .bar-header .logo a {
+.post-ruby .bar-header .logo a {
     color: #d6ba32
 }
 
-.post-js .author .email,
-.post-js .author .github {
+.post-ruby .author .email,
+.post-ruby .author .github {
     color: #d6ba32
 }
 
-.post-js .share a:hover svg {
+.post-ruby .share a:hover svg {
     fill: #d6ba32
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-js body.search-overlay:after {
+    .post-ruby body.search-overlay:after {
         background-color: #d6ba32
     }
 }
 
-.post-js .icon-menu {
+.post-ruby .icon-menu {
     fill: #d6ba32
 }
 
-.post-js .box-body h2 {
+.post-ruby .box-body h2 {
     color: #d6ba32
 }
 
-.post-js .box-body .tags a {
+.post-ruby .box-body .tags a {
     color: #d6ba32;
     border: 1px solid #d6ba32
 }
 
-.post-js aside {
+.post-ruby aside {
     background-color: #d6ba32;
 }
 
-.post-js aside nav li a:hover {
+.post-ruby aside nav li a:hover {
     color: #d6ba32
 }
 
-.post-js .ribbon span {
+.post-ruby .ribbon span {
     background-color: #d6ba32;
 }
 
-.post-js .ribbon span:before {
+.post-ruby .ribbon span:before {
     border-left: 3px solid #9a851f;
     border-top: 3px solid #9a851f
 }
 
-.post-js .ribbon span:after {
+.post-ruby .ribbon span:after {
     border-right: 3px solid #9a851f;
     border-top: 3px solid #9a851f
 }
 
-.post-js footer {
+.post-ruby footer {
     background-color: #d6ba32
 }
 
@@ -2088,308 +2088,308 @@ footer a {
     background-color: #eb7728
 }
 
-.post-svg .title-category {
+.post-sidekiq .title-category {
     color: #7d669e
 }
 
-.post-svg .post-content h1,
-.post-svg .post-content h2,
-.post-svg .post-content h3,
-.post-svg .post-content h4 {
+.post-sidekiq .post-content h1,
+.post-sidekiq .post-content h2,
+.post-sidekiq .post-content h3,
+.post-sidekiq .post-content h4 {
     color: #7d669e
 }
 
-.post-svg .post-content a {
+.post-sidekiq .post-content a {
     color: #7d669e;
     border-bottom: 2px dashed #7d669e;
 }
 
-.post-svg .post-content a:hover {
+.post-sidekiq .post-content a:hover {
     background-color: #7d669e;
     color: #fff
 }
 
-.post-svg .post-content strong {
+.post-sidekiq .post-content strong {
     color: #7d669e
 }
 
-.post-svg .post-content p code,
-.post-svg .post-content li code {
+.post-sidekiq .post-content p code,
+.post-sidekiq .post-content li code {
     color: #7d669e
 }
 
-.post-svg .post-content blockquote {
+.post-sidekiq .post-content blockquote {
     border-left: .313rem solid #7d669e
 }
 
-.post-svg .header-post,
-.post-svg .header-site {
+.post-sidekiq .header-post,
+.post-sidekiq .header-site {
     background-color: #7d669e;
 }
 
-.post-svg .header-post h1,
-.post-svg .header-site h1 {
+.post-sidekiq .header-post h1,
+.post-sidekiq .header-site h1 {
     text-shadow: 3px 3px #64517f
 }
 
-.post-svg .bar-header .logo a {
+.post-sidekiq .bar-header .logo a {
     color: #7d669e
 }
 
-.post-svg .author .email,
-.post-svg .author .github {
+.post-sidekiq .author .email,
+.post-sidekiq .author .github {
     color: #7d669e
 }
 
-.post-svg .share a:hover svg {
+.post-sidekiq .share a:hover svg {
     fill: #7d669e
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-svg body.search-overlay:after {
+    .post-sidekiq body.search-overlay:after {
         background-color: #7d669e
     }
 }
 
-.post-svg .icon-menu {
+.post-sidekiq .icon-menu {
     fill: #7d669e
 }
 
-.post-svg .box-body h2 {
+.post-sidekiq .box-body h2 {
     color: #7d669e
 }
 
-.post-svg .box-body .tags a {
+.post-sidekiq .box-body .tags a {
     color: #7d669e;
     border: 1px solid #7d669e
 }
 
-.post-svg aside {
+.post-sidekiq aside {
     background-color: #7d669e;
 }
 
-.post-svg aside nav li a:hover {
+.post-sidekiq aside nav li a:hover {
     color: #7d669e
 }
 
-.post-svg .ribbon span {
+.post-sidekiq .ribbon span {
     background-color: #7d669e;
 }
 
-.post-svg .ribbon span:before {
+.post-sidekiq .ribbon span:before {
     border-left: 3px solid #57476f;
     border-top: 3px solid #57476f
 }
 
-.post-svg .ribbon span:after {
+.post-sidekiq .ribbon span:after {
     border-right: 3px solid #57476f;
     border-top: 3px solid #57476f
 }
 
-.post-svg footer {
+.post-sidekiq footer {
     background-color: #7d669e
 }
 
-.post-dev .title-category {
+.post-krypt .title-category {
     color: #637a91
 }
 
-.post-dev .post-content h1,
-.post-dev .post-content h2,
-.post-dev .post-content h3,
-.post-dev .post-content h4 {
+.post-krypt .post-content h1,
+.post-krypt .post-content h2,
+.post-krypt .post-content h3,
+.post-krypt .post-content h4 {
     color: #637a91
 }
 
-.post-dev .post-content a {
+.post-krypt .post-content a {
     color: #637a91;
     border-bottom: 2px dashed #637a91;
 }
 
-.post-dev .post-content a:hover {
+.post-krypt .post-content a:hover {
     background-color: #637a91;
     color: #fff
 }
 
-.post-dev .post-content strong {
+.post-krypt .post-content strong {
     color: #637a91
 }
 
-.post-dev .post-content p code,
-.post-dev .post-content li code {
+.post-krypt .post-content p code,
+.post-krypt .post-content li code {
     color: #637a91
 }
 
-.post-dev .post-content blockquote {
+.post-krypt .post-content blockquote {
     border-left: .313rem solid #637a91
 }
 
-.post-dev .header-post,
-.post-dev .header-site {
+.post-krypt .header-post,
+.post-krypt .header-site {
     background-color: #637a91;
 }
 
-.post-dev .header-post h1,
-.post-dev .header-site h1 {
+.post-krypt .header-post h1,
+.post-krypt .header-site h1 {
     text-shadow: 3px 3px #4f6274
 }
 
-.post-dev .bar-header .logo a {
+.post-krypt .bar-header .logo a {
     color: #637a91
 }
 
-.post-dev .author .email,
-.post-dev .author .github {
+.post-krypt .author .email,
+.post-krypt .author .github {
     color: #637a91
 }
 
-.post-dev .share a:hover svg {
+.post-krypt .share a:hover svg {
     fill: #637a91
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-dev body.search-overlay:after {
+    .post-krypt body.search-overlay:after {
         background-color: #637a91
     }
 }
 
-.post-dev .icon-menu {
+.post-krypt .icon-menu {
     fill: #637a91
 }
 
-.post-dev .box-body h2 {
+.post-krypt .box-body h2 {
     color: #637a91
 }
 
-.post-dev .box-body .tags a {
+.post-krypt .box-body .tags a {
     color: #637a91;
     border: 1px solid #637a91
 }
 
-.post-dev aside {
+.post-krypt aside {
     background-color: #637a91;
 }
 
-.post-dev aside nav li a:hover {
+.post-krypt aside nav li a:hover {
     color: #637a91
 }
 
-.post-dev .ribbon span {
+.post-krypt .ribbon span {
     background-color: #637a91;
 }
 
-.post-dev .ribbon span:before {
+.post-krypt .ribbon span:before {
     border-left: 3px solid #455565;
     border-top: 3px solid #455565
 }
 
-.post-dev .ribbon span:after {
+.post-krypt .ribbon span:after {
     border-right: 3px solid #455565;
     border-top: 3px solid #455565
 }
 
-.post-dev footer {
+.post-krypt footer {
     background-color: #637a91
 }
 
-.post-misc .title-category {
+.post-rubygems .title-category {
     color: #7aab13
 }
 
-.post-misc .post-content h1,
-.post-misc .post-content h2,
-.post-misc .post-content h3,
-.post-misc .post-content h4 {
+.post-rubygems .post-content h1,
+.post-rubygems .post-content h2,
+.post-rubygems .post-content h3,
+.post-rubygems .post-content h4 {
     color: #7aab13
 }
 
-.post-misc .post-content a {
+.post-rubygems .post-content a {
     color: #7aab13;
     border-bottom: 2px dashed #7aab13;
 }
 
-.post-misc .post-content a:hover {
+.post-rubygems .post-content a:hover {
     background-color: #7aab13;
     color: #fff
 }
 
-.post-misc .post-content strong {
+.post-rubygems .post-content strong {
     color: #7aab13
 }
 
-.post-misc .post-content p code,
-.post-misc .post-content li code {
+.post-rubygems .post-content p code,
+.post-rubygems .post-content li code {
     color: #7aab13
 }
 
-.post-misc .post-content blockquote {
+.post-rubygems .post-content blockquote {
     border-left: .313rem solid #7aab13
 }
 
-.post-misc .header-post,
-.post-misc .header-site {
+.post-rubygems .header-post,
+.post-rubygems .header-site {
     background-color: #7aab13;
 }
 
-.post-misc .header-post h1,
-.post-misc .header-site h1 {
+.post-rubygems .header-post h1,
+.post-rubygems .header-site h1 {
     text-shadow: 3px 3px #62890f
 }
 
-.post-misc .bar-header .logo a {
+.post-rubygems .bar-header .logo a {
     color: #7aab13
 }
 
-.post-misc .author .email,
-.post-misc .author .github {
+.post-rubygems .author .email,
+.post-rubygems .author .github {
     color: #7aab13
 }
 
-.post-misc .share a:hover svg {
+.post-rubygems .share a:hover svg {
     fill: #7aab13
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-misc body.search-overlay:after {
+    .post-rubygems body.search-overlay:after {
         background-color: #7aab13
     }
 }
 
-.post-misc .icon-menu {
+.post-rubygems .icon-menu {
     fill: #7aab13
 }
 
-.post-misc .box-body h2 {
+.post-rubygems .box-body h2 {
     color: #7aab13
 }
 
-.post-misc .box-body .tags a {
+.post-rubygems .box-body .tags a {
     color: #7aab13;
     border: 1px solid #7aab13
 }
 
-.post-misc aside {
+.post-rubygems aside {
     background-color: #7aab13;
 }
 
-.post-misc aside nav li a:hover {
+.post-rubygems aside nav li a:hover {
     color: #7aab13
 }
 
-.post-misc .ribbon span {
+.post-rubygems .ribbon span {
     background-color: #7aab13;
 }
 
-.post-misc .ribbon span:before {
+.post-rubygems .ribbon span:before {
     border-left: 3px solid #55780d;
     border-top: 3px solid #55780d
 }
 
-.post-misc .ribbon span:after {
+.post-rubygems .ribbon span:after {
     border-right: 3px solid #55780d;
     border-top: 3px solid #55780d
 }
 
-.post-misc footer {
+.post-rubygems footer {
     background-color: #7aab13
 }
